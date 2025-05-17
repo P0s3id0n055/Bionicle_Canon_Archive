@@ -1,7 +1,7 @@
 # Bionicle-Canon-Archive
-I'm trying to group together instructions and bricklink xml lists for all (or at least the most I can find) of the canon models, hope it is useful to someone
+I'm trying to group together instructions and bricklink xml lists for all (or at least the most I can find) of the canon models,I hope it will be useful to someone
 
-None of the instructions in this repository is made by me, I'm just trying to group them together. All of the credits for the instructions go to the orginal creators, mostly are from TLROsborne and Vahki6, so huge thanks to them and everyone else who made free instructions for these models.
+None of the instruction in this repository is made by me, I'm just trying to group them together. All of the credits for the instructions go to the orginal creators, mostly are from TLROsborne and Vahki6, so huge thanks to them and everyone else who made free instructions for these models.
 
 What is mine is all of the bricklink xml files I made for the different models. 
 
