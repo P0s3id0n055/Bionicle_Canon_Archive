@@ -1,0 +1,1 @@
+note: I didn't include the regular black technic pins since counting all of them was a mess, you probably need around 30 / 40 of them. Sorry
