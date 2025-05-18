@@ -1,0 +1,1 @@
+I highly reccomend using Haebels instructions for everything, dude solved a lot of stuff of which even I was unsure. I can guarantee it since I have to only build 7 more Dark Hunters and I have everything else done. It also looks like he cooperated a lot with Vahki6, which I consider the father of the dark hunters instructions.
