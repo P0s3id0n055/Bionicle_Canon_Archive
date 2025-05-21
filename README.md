@@ -9,4 +9,7 @@ That said, I may have made mistakes while creating them and if you find them ple
 
 Also I'm from Italy and I reckon some of my English might not be perfect, I'm trying to use only my knowledge and avoid all of the translator apps, so yeah, correct me whenever it is needed.
 
+EDIT: seems like this is too heavy for github, I will keep updating the google drive one at this point: here is the link: https://drive.google.com/drive/folders/1OcUDyd7A6mObSkMENK04ADmtb6MH_EGk?usp=drive_link
+
+
 
